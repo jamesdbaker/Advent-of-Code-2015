@@ -10,3 +10,10 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+# Eclipse and Maven files
+.metadata
+.project
+parent/day*/.settings
+parent/.settings
+parent/day*/target
