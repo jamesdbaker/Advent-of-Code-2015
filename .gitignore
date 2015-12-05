@@ -17,3 +17,4 @@ hs_err_pid*
 parent/day*/.settings
 parent/.settings
 parent/day*/target
+.recommenders
