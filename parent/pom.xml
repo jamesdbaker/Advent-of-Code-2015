@@ -19,12 +19,21 @@
 		<module>day9</module>
 		<module>day10</module>
 		<module>day11</module>
+		<module>day12</module>
+		<module>day13</module>
+		<module>day14</module>
+		<module>day15</module>
 	</modules>
 	<dependencies>
 		<dependency>
 			<groupId>org.apache.commons</groupId>
 			<artifactId>commons-lang3</artifactId>
 			<version>3.4</version>
+		</dependency>
+		<dependency>
+			<groupId>commons-io</groupId>
+			<artifactId>commons-io</artifactId>
+			<version>2.4</version>
 		</dependency>
 	</dependencies>
 	<build>
